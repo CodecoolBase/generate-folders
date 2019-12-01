@@ -67,8 +67,9 @@ None
 
 ## Starting repository
 
-Click here to clone your own Git repository:
-**TODO** link
+Click
+[here](https://classroom.github.com/a/RFlLtQFV)
+to clone your own Git repository:
 
 ## Background materials
 
