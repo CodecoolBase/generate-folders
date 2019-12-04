@@ -27,12 +27,7 @@ everyone using the shell.
     - There is a directory named `home/<your name>/src`
     - There is a directory named `home/<your name>/config`
 
-3. Create a few directories that will be added to everyone's home folder.
-
-    - There is a directory named `home/<your name>/src`
-    - There is a directory named `home/<your name>/config`
-
-4. Create the files that will be present in everyone's folder structure.
+3. Create the files that will be present in everyone's folder structure.
 
     - Create a file called `home/<your name/config/profile`.
     - The profile file should set up some variables with the contents:
@@ -48,7 +43,7 @@ export PS1='<your name> \w $ '
 This is the folder where you can keep your projects.
 ```
 
-5. Now you need to create the home folder for everyone else.  You will find the name of your co-workers in the `names.lst` file.
+4. Now you need to create the home folder for everyone else.  You will find the name of your co-workers in the `names.lst` file.
 
     - Create the same directory structure for everyone like the one that you created for yourself.
     - Make sure that wherever you used your own name, use your given co-worker's name instead.
