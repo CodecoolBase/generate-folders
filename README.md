@@ -1,4 +1,4 @@
-# Generate Folders
+# Generate folders
 
 ## Story
 
@@ -71,3 +71,9 @@ to clone your own Git repository:
 - :exclamation: [How to get help for commands](https://learn.code.cool/advanced-data/#/../pages/unix/help)
 - :exclamation: [Interacting with the system from the shell](https://learn.code.cool/advanced-data/#/../pages/unix/interacting-with-the-system)
 - :exclamation: [Control structures in the shell](https://www.gnu.org/software/bash/manual/html_node/Compound-Commands.html)
+
+
+## Acceptance review
+
+You will need this only at review time, **after** completing the project.
+[Use this form](https://forms.gle/HthENxHCu6rnXvcs8) to record the review you provide for your peer.
